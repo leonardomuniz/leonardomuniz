@@ -1,5 +1,4 @@
 
-<img align="right" height="480em" src="https://raw.githubusercontent.com/gist/leonardomuniz/14bf4b0a02482fe16e15c1b07a7396ec/raw/c4cb9fe08144d1eec94245127cc0b09192a022e9/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Muniz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardomuniz&color=green" alt="Profile views" /> </p>
 
